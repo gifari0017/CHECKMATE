@@ -1,0 +1,15 @@
+# Build output
+out/
+build/
+*.class
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# Local database (each machine makes its own)
+checkmate.db
+
+# OS junk
+.DS_Store
+Thumbs.db
